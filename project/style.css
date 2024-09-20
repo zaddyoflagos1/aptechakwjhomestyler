@@ -1,0 +1,29 @@
+body{
+background-color: white;
+}
+.head{
+    text-align: justify;
+    display: flex;
+    flex-direction: row;
+}
+.Nav-bar{
+    background-color: black;
+    height: 10rem;
+    width: 100%;
+    color: brown;
+    font-size: 100%;
+    margin: 0%;
+    padding: 0%;
+}
+#text{
+    padding-top: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 400px;
+    padding-top: 50%;
+    text-align: center;
+    font-size: xx-large;
+}
+section{
+    display: grid;
+    grid-row: span;
+}
